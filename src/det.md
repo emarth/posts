@@ -1,3 +1,3 @@
 ## Plato's Cave: Determinants and Exterior Powers
 
-Sample text bla bla
+The determinant is often an inscrutable object for students of linear algebra. There it lies, some strange recursive formula which somehow yields incredibly useful information. It's not hard to see, how in lower dimensions, it measures roughly how much an (oriented) area in the plane contracts or expands under a linear operator, however why this formula keeps working for higher dimensions is less obvious.
